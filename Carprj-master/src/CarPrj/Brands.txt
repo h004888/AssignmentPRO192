@@ -1,0 +1,14 @@
+B7-2018,	 	 	     BMW 730LI (2018),	 	 	     HARMAN KARDON		: 3.75
+B7-MS,	 	 	     BMW 730LI M SPORT,	 	 	     HARMAN KARDON		: 4.32
+B7-MS20,	 	 SONY,	 	 SS		: 1.40
+B7-PE,	 	 	     BMW 730LI PURE EXCELLENCE,	 	 	     HARMAN KARDON		: 4.93
+B5-18,	 	 	     BMW 530I (2018),	 	 	     ALPINE		: 2.60
+B7019,	 	 	     BMW 530I (2019) ,	 	 	     ALPINE		: 2.73
+BX4-18,	 	 	     BMW X4 XDRIVE20I (2018),	 	 	     SONY		: 2.80
+BX4-17,	 	 	     BMW X4 XDRIVE20I (2019) ,	 	 	     SONY		: 2.90
+B3-GT18,	 	 	     BMW 320I GT (2018),	 	 	     BOSE		: 1.00
+B3-S19,	 	 	     BMW 320I SPORTLINE (2019),	 	 	     BOSE		: 1.90
+B5-X19,	 	 	     BMW X5 XDRIVE40I XLINE (2019),	 	 	     BOSE		: 4.20
+B5-X20,	 	 	     BMW X5 XDRIVE40I XLINE (2020),	 	 	     BOSE		: 4.24
+GUCCI,	 	 GUCCI1,	 	 SONY		: 1.55
+AKFDJH,	 FRA,	 GASLKJ	: 234.30
